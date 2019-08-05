@@ -1,0 +1,3 @@
+class Moves{
+	public int minMoves()
+}
